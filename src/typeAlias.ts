@@ -41,3 +41,7 @@ const user2: User = {
 }
 
 console.log(user1);
+
+
+
+
